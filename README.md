@@ -10,6 +10,6 @@
 
 ## Assignments
 
-- [Time Complexity Assignment](https://github.com/VRUCS/DSA-4031/raw/refs/heads/main/assignments/assignment-01.pdf)
+- [Time Complexity](https://github.com/VRUCS/DSA-4031/raw/refs/heads/main/assignments/assignment-01.pdf)
 
 ## Projects
